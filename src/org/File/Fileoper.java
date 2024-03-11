@@ -10,6 +10,7 @@ public class Fileoper {
 		System.out.println(b);
 		boolean c = f.canWrite();
 		System.out.println(c);
+		System.out.println(c);
 		
 		String[] list = f.list();
 		for (String ad : list) {
